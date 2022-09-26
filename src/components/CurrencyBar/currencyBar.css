@@ -1,0 +1,14 @@
+.all-market {
+  /* margin-top: 10px; */
+}
+.verticalLine {
+    display: inline-block;
+    align-self: stretch;
+    width: 1px;
+    min-height: 1em;
+    background-color: currentcolor;
+    opacity: .25;
+}
+.border-left {
+    border-left: 1px solid #e1e3e7;
+}
